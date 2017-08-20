@@ -18,3 +18,14 @@ web/.htaccess
 # Composer
 vendor/*
 !vendor/.gitkeep
+
+# Operating system files
+.Spotlight-V100
+.Trashes
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# IDE
+.idea
+.phpintel
